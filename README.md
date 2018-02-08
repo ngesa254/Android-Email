@@ -4,7 +4,13 @@ Sending Email from Android Application
 Images
 ------
 
-<img src="Images/ra.png" alt="phone image" width="200px" />
+<img src="Images/pa.png" alt="phone image" width="200px" />
+
+<img src="Images/pb.png" alt="phone image" width="200px" />
+
+<img src="Images/pc.png" alt="phone image" width="200px" />
+
+<img src="Images/pd.png" alt="phone image" width="200px" />
 
 Setup Requirements
 ----------------
