@@ -1,5 +1,5 @@
 # Android Email
-Sending Email from Android Application
+:email: :mailbox: Sending Email from Android Application
 
 Images
 ------
